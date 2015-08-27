@@ -1,0 +1,21 @@
+header, footer {
+	background-color: #004a4a;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+aside, nav{
+	background-color: #0aa;
+	padding-top: 40px;
+	font-weight: bold;
+}
+
+.title {
+	color: moccasin;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+}
